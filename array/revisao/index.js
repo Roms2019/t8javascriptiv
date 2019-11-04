@@ -35,7 +35,7 @@ comidas.splice(1,0,
     
 )
 
-let mapArray = comidas.map((comida => `${comida`})
+let mapArray = comidas.map((comida => `${comida}`)
 console.log(mapArray)
 let teste = comidas.forEach((comida)=> `${ comida } boa`)
 console.log(teste)
@@ -46,8 +46,8 @@ console.log(numerosDobrados)
 let arrayProcura = comidas.filter((comida)=> comida === 'Batata')
 console.log(arrayProcura)
 
-let juntaComida = comidas.reduce(esq, dir) => {
-    return `${esq} e ${dir}
+let juntaComida = comidas.reduce((esq, dir) => {
+    return `${esq} e ${dir}`
 })
 console.log(juntaComida)
 
