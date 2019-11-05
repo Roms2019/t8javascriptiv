@@ -79,7 +79,7 @@ js4.dizMateria = function () {
     return'A professora é: ${this.nome} e a materia é $ {this.materia}
 }*/
 
-const avo = { attr1: 'A' }
+/*const avo = { attr1: 'A' }
 const mae = { _proto_: avo, attr2: 'B', attr3: 'E' }
 const filha = { _proto_: mae, attr3: 'C' }
 console.log(filha.attr1, filha.attr2, filha.attr3)

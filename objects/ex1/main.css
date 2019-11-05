@@ -1,0 +1,55 @@
+button{
+  padding:20px 40px;
+  font-size: 24px; 
+  margin:20px;
+}
+
+button i{
+  margin-right:15px;
+}
+
+button.pequeno{
+  padding: 10px 20px;
+  font-size: 14px;
+}
+
+.verde {
+  background-color: green;
+  border-radius: 5px;
+}
+
+.roxo{
+  background-color: purple;
+}
+
+.azul{
+  background-color: blue;
+}
+
+.rosa{
+  background-color: crimson;
+  border-radius: 30px;
+}
+
+.verde2{
+  background-color: darkgreen;
+  border-radius: 70px;
+}
+
+.amarelo{
+  background-color: yellow;
+  border-radius: 20px;
+}
+
+.marrom{
+  background-color: brown;
+  width: 20px;
+  border-radius: 10px;
+}
+
+.vermelho{
+  background-color: red;
+  width: 60px;
+  height: 90px;
+  border-radius: 20px;
+}
